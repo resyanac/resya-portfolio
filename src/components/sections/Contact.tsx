@@ -38,7 +38,7 @@ const Contact = () => {
 
       emailjs.send(
         emailjsConfig.serviceId,
-        emailjsConfig.templateId, // <-- Corrected argument
+        emailjsConfig.templateId, 
         {
           form_name: form.name,
           to_name: config.html.fullName,
