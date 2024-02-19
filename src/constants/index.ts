@@ -29,6 +29,7 @@ import {
   got,
   todo,
   ireng,
+  febrian,
   threejs,
 } from "../assets";
 
@@ -171,11 +172,11 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Haikal Shahab",
-    designation: "Associate Software Engineer",
-    company: "Revou",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Resyana is diving headfirst into the tech world, she's on a journey of continuous learning and growth. Watch out for this emerging talent as she navigates the exciting challenges of the tech landscape.",
+    name: "Febrian Kurniawan",
+    designation: "Data Crawler",
+    company: "Norna AI",
+    image: febrian,
   },
   {
     testimonial:

@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
             <br className="hidden sm:block" />
             {config.hero.p[1]}
           </p>
-          <Link to="https://drive.google.com/file/d/1atO-ky4vr7mspXzpALT4ofBQYiZivS33/view?usp=sharing">
+          <Link to="https://drive.google.com/uc?export=download&id=1atO-ky4vr7mspXzpALT4ofBQYiZivS33">
             <motion.button
               whileHover={{ scale: 1.05, boxShadow: "0px 4px 8px rgba(0, 0, 0, 0.1)" }}
               className="bg-gradient-to-r from-purple-400 to-pink-500 text-white font-semibold py-2 px-4 rounded-lg mt-4"

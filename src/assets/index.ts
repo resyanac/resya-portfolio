@@ -30,6 +30,7 @@ import sampoerna from "./sampoerna.png";
 import todo from "./todo.png";
 
 import ireng from "./ireng.jpeg";
+import febrian from "./febrian.png";
 
 export {
   logo,
@@ -51,6 +52,7 @@ export {
   nodejs,
   reactjs,
   redux,
+  febrian,
   tailwind,
   typescript,
   threejs,
